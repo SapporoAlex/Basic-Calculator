@@ -2,6 +2,8 @@
 
 This is a simple calculator program written in C++. It provides a menu with options for addition, subtraction, multiplication, and division. The user can choose an operation, input two numbers, and get the result.
 
+<img src="https://github.com/SapporoAlex/Basic-Calculator/blob/main/cpp%20calculator.png?raw=true">
+
 ## Usage
 
 1. Clone this repository to your local machine.

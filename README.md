@@ -16,13 +16,13 @@ cd basic calculator
 3. Compile the source code.
 
 ```bash
-g++ calculator.cpp -o calculator
+g++ basic_calculator.cpp -o basic_calculator
 ```
 
 4. Run the program.
 
 ```bash
-./calculator
+./basic_calculator
 ```
 Follow the on-screen instructions to perform calculations. Enter the numbers and choose the operation according to the menu.
 
